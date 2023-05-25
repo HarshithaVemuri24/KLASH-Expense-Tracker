@@ -12,6 +12,6 @@ By employing best practices for user interface design, the project aims to deliv
 
 Overall, the Expense Tracker project provides users with a reliable and efficient tool to track their expenses, gain insights into their financial habits, and enhance their overall financial management skills.
 
-![image](https://github.com/HarshithaVemuri24/KLASH-Expense-Tracker/images/91493643/14491f46-591b-41a5-9aff-79b863c6d7b7)
+![image](https://github.com/HarshithaVemuri24/KLASH-Expense-Tracker/images/login.png)
 
 ![image](https://github.com/HarshithaVemuri24/KLASH-Expense-Tracker/images/91493643/958637d8-cfdc-4de8-a0c3-2da8d9cba737)
