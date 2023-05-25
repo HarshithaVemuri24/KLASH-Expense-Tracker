@@ -14,5 +14,8 @@ Overall, the Expense Tracker project provides users with a reliable and efficien
 
 ![login](https://github.com/HarshithaVemuri24/KLASH-Expense-Tracker/assets/91493643/4153e698-73bc-4661-b20f-09c510f317d0)
 
+![register](https://github.com/HarshithaVemuri24/KLASH-Expense-Tracker/assets/91493643/ae093368-73c7-4fb6-b592-5cab2656874c)
 
-![image](https://github.com/HarshithaVemuri24/KLASH-Expense-Tracker/images/91493643/958637d8-cfdc-4de8-a0c3-2da8d9cba737)
+![dashboard2](https://github.com/HarshithaVemuri24/KLASH-Expense-Tracker/assets/91493643/34842f9d-a1ff-4c2f-bd99-fcea1b68dae6)
+
+![dashboard](https://github.com/HarshithaVemuri24/KLASH-Expense-Tracker/assets/91493643/f6fc32a3-7a9f-4ef4-8a25-032cf390be3b)
